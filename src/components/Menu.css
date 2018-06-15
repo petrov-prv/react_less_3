@@ -1,0 +1,28 @@
+.header-menu {
+  width: 710px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  height: 62px;
+}
+
+.header-menu__item {
+  margin-top: 19px;
+  margin-bottom: 17px;
+}
+
+.header-menu__item-link {
+  font-family: Montserrat,sans-serif;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: left;
+  text-transform: uppercase;
+  padding: 15px 15px 19px;
+}
+
+.header-menu__item-link:hover {
+  color: #f16d7f;
+}
